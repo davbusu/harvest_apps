@@ -1,4 +1,3 @@
-harvest_apps
-============
+# Harvest Apps
 
-Moved
+Moved to https://github.com/SailonGroup/harvest_apps.
